@@ -34,5 +34,48 @@ Your manager, Giulia, will mentor you through your Power BI upskilling journey, 
 
 ![image](https://github.com/user-attachments/assets/180f4374-ea45-41be-905e-a41026775072)
 
+**This virtual experience program consists of 3 tasks:**
+Task 1: Call Centre Trends Create Dashboard -  Visualizing  & agent behaviour
+Task 2: Customer Retention - create a dashboard that visualizes customer demographics and insights.
+Task 3: Diversity & Inclusion 
 
+# Table of contents
+* Data Sourcing
+* Problem Statement
+* Data Preparation
+* Data Modeling
+* Data Visualization
+* Analysis and Insights
 
+# Data Sourcing
+
+The dataset used for this analysis was sourced from [Pwc Switzerland](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) and available here [Call Center Dataset]
+
+# Problem Statement
+
+**Problem**
+* The manager at PhoneNow telecom company seeks actionable insights from the call center dataset to understand customer satisfaction and agent performance trends     over time.  
+* A telecom manager requires transparency and analysis of call center data to identify long-term patterns in customer interactions and agent efficiency.  
+* The manager at a major telecom firm is looking to analyze call center data for clear insights into customer behavior and agent performance over the long term.  
+
+**Object** 
+  Design a Power BI dashboard for Claire showcasing key performance indicators (KPIs) and metrics. Ensure it provides clear insights into customer       
+  satisfaction, agent performance, and call center trends.
+  
+- Interactive display of call trends and patterns.  
+- Overview of agent performance and behaviors.  
+- Summary of customer satisfaction metrics.  
+- Comprehensive visuals for business discussions and deeper analysis.  
+- Minimal interaction required for ease of use.  
+
+**Possible KPIs** include (to get you started, but not limited to):
+
+* Overall customer satisfaction
+* Overall calls answered/abandoned
+* Calls by time
+* Average speed of answer
+* Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+# Data Preparation
+
+The dataset was imported into Microsoft Power BI Desktop for analysis. It underwent transformation in Power Query and was modeled for effective visualization.

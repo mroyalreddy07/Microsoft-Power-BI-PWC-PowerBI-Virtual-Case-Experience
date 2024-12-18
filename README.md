@@ -112,6 +112,26 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
   Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends,       progress, and areas requiring attention
   
   Discover live, actionable dashboards [here]()
+
+
+
+
+
+# Task 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 # Measures
   The measure used in visualization are:

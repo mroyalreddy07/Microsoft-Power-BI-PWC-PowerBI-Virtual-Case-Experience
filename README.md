@@ -1,4 +1,4 @@
-# Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience
+![image](https://github.com/user-attachments/assets/cde8c147-7c79-4c2b-ac9e-daa23ef0938f)# Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience
 
 # Project Overview
 
@@ -97,9 +97,17 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 # Data Visualization
 
 **Call Centre Trends**
-  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping to highlight opportunities for operational           enhancements.  
-  Acess [here]() for live and interactive dashboards.
+  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping     to highlight opportunities for operational enhancements.  
+ 
+  Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive          dashboards.
+  
+  ![image](https://github.com/user-attachments/assets/0d01edc3-9f8f-44e1-8c76-0abcd2207e15)
 
+**Customer Retention**
+  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics.   It provides actionable insights into trends, progress, and areas requiring attention
+  
+  Discover live, actionable dashboards [here]()
+  
 # Measures
   The measure used in visualization are:
   

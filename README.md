@@ -20,7 +20,6 @@ To download the .pbix files, navigate to the folder in this repository where the
 
 ![image](https://github.com/user-attachments/assets/a6a92aa5-265a-4b0d-a574-1c63aae9c968)
 
-
 # 📌  Scenario
 
 At PwC, we empower global organizations while upskilling our 276,000 employees, equipping them to thrive in the digital era. Our mission is to enable everyone to learn, work, and innovate with cutting-edge digital tools. Employees can become "Digital Accelerators," advancing their expertise in areas like data analytics, automation, AI, and digital storytelling by mastering self-service tools and coding languages and applying these skills in real-world scenarios.
@@ -28,14 +27,15 @@ At PwC, we empower global organizations while upskilling our 276,000 employees, 
 
 Your manager, Giulia, will mentor you through your Power BI upskilling journey, helping you become a data expert and Digital Accelerator. A key client has already reached out, seeking your expertise in visualizing their data, paving the way for impactful insights and solutions.
 
-**Task Two: Call Center Analysis | Pwc Switzerland Power BI Virtual Case Experience**
+**Call Center Analysis | Pwc Switzerland Power BI Virtual Case Experience**
 
 ![image](https://github.com/user-attachments/assets/180f4374-ea45-41be-905e-a41026775072)
 
 **This virtual experience program consists of 3 tasks:**
-Task 1: Call Centre Trends Create Dashboard -  Visualizing  & agent behaviour
+
+Task 1: Call Centre Trends Create Dashboard - Visualizing  & agent behaviour.
 Task 2: Customer Retention - create a dashboard that visualizes customer demographics and insights.
-Task 3: Diversity & Inclusion 
+Task 3: Diversity & Inclusion.
 
 # Table of contents
 * Data Sourcing
@@ -47,17 +47,19 @@ Task 3: Diversity & Inclusion
 
 # Data Sourcing
 
-The dataset used for this analysis was sourced from [Pwc Switzerland](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) and available here [Call Center Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call-Center-Dataset.xlsx)
+The dataset used for this analysis was sourced from [Pwc Switzerland](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) and available dataset's here below.
+* [Call Center Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call-Center-Dataset.xlsx)
+* []
 
 # Problem Statement
 
 **Problem**
-* The manager at PhoneNow telecom company seeks actionable insights from the call center dataset to understand customer satisfaction and agent performance trends     over time.  
+* The manager at PhoneNow telecom company seeks actionable insights from the call center dataset to understand customer satisfaction and agent performance trends over time.  
 * A telecom manager requires transparency and analysis of call center data to identify long-term patterns in customer interactions and agent efficiency.  
 * The manager at a major telecom firm is looking to analyze call center data for clear insights into customer behavior and agent performance over the long term.  
 
 **Object** 
-  Design a Power BI dashboard for Claire showcasing key performance indicators (KPIs) and metrics. Ensure it provides clear insights into customer       
+  Design a Power BI dashboard for Claire showcasing key performance indicators (KPIs) and metrics. Ensure it provides clear insights into customer    
   satisfaction, agent performance, and call center trends.
   
 - Interactive display of call trends and patterns.  
@@ -86,7 +88,7 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 * Unnecessary rows were removed
 
 # Data Transformation
-  the process of converting, cleaning, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the growth of an organization.
+  The process of converting, cleaning, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the growth of an organization.
   an additional column named Satisfaction Likert was created for referencing using the M-formula:
   
 # Data Modeling
@@ -95,14 +97,13 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 # Data Visualization
 
 1. **Call Centre Trends**
-  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping     to highlight opportunities for operational enhancements.  
+  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping to highlight opportunities for operational           enhancements.  
  
-  Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive          dashboards.
+      Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive dashboards.
   
-  ![image](https://github.com/user-attachments/assets/0d01edc3-9f8f-44e1-8c76-0abcd2207e15)
-
+  
 2. **Customer Retention**
-  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion            metrics. It provides actionable insights into trends, progress, and areas requiring attention
+  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends, progress, and areas requiring attention
   
   Discover live, actionable dashboards [here]()
   

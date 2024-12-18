@@ -33,9 +33,9 @@ Your manager, Giulia, will mentor you through your Power BI upskilling journey, 
 
 **This virtual experience program consists of 3 tasks:**
 
-Task 1: Call Centre Trends Create Dashboard - Visualizing  & agent behaviour.
-Task 2: Customer Retention - create a dashboard that visualizes customer demographics and insights.
-Task 3: Diversity & Inclusion.
+* Task 1: Call Centre Trends Create Dashboard - Visualizing  & agent behaviour.
+* Task 2: Customer Retention - Create a Dashboard that Visualizes customer demographics and insights.
+* Task 3: Diversity & Inclusion.
 
 # Table of contents
 * Data Sourcing

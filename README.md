@@ -49,7 +49,8 @@ Task 3: Diversity & Inclusion.
 
 The dataset used for this analysis was sourced from [Pwc Switzerland](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) and available dataset's here below.
 * Task 1. [Call Center Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call-Center-Dataset.xlsx)
-* []
+* Task 2. [Churn Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Churn-Dataset.xlsx)
+* Task 3. []()
 
 # Problem Statement
 
@@ -98,12 +99,11 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 
 1. **Call Centre Trends**
   The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping to highlight opportunities for operational           enhancements.  
- 
-      Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive dashboards.
+            Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive dashboards.
   
   
 2. **Customer Retention**
-  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends, progress, and areas requiring attention
+  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends,       progress, and areas requiring attention
   
   Discover live, actionable dashboards [here]()
   

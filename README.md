@@ -79,3 +79,39 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
 # Data Preparation
 
 The dataset was imported into Microsoft Power BI Desktop for analysis. It underwent transformation in Power Query and was modeled for effective visualization.
+
+# Data Cleaning
+  The process of cleaning the dataset was completed in Power Query with the following steps.
+
+* Unnecessary columns were removed.
+* Each of the columns in the table was validated to have the correct data type.
+* Unnecessary rows were removed
+
+# Data Transformation
+  the process of converting, cleaning, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the growth of an organization.
+  an additional column named Satisfaction Likert was created for referencing using the M-formula:
+  
+# Data Modeling
+  Once the dataset was cleaned and transformed, it was ready for modeling. However, as it contained only a single table, the data modeling process was minimal.
+  
+# Data Visualization
+
+**Call Centre Trends**
+  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping to highlight opportunities for operational           enhancements.  
+  Acess [here]() for live and interactive dashboards.
+
+# Measures
+  The measure used in visualization are:
+  
+ * **Calculated measures**
+
+  * Answered = CALCULATE(COUNT(Call_Center[Call Id]),FILTER(Call_Center,Call_Center[Answered (Y/N)]="Y"))
+  * Resolved(Y) = CALCULATE(COUNT(Call_Center[Call Id]),FILTER(Call_Center,Call_Center[Resolved] ="Y"))
+
+# Analysis and Insights
+  The goal of this dashboard is to enable managers to explore the data independently, but I have outlined some key points of interest below.
+
+  
+
+
+

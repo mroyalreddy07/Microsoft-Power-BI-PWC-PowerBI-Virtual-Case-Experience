@@ -123,34 +123,8 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
 
   ![image](https://github.com/user-attachments/assets/465222bb-62c3-4b48-9dd4-b75df8008fa0)
 
-  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-# Measures
-  The measure used in visualization are:
-  
- * **Calculated measures**
-
-  * Answered = CALCULATE(COUNT(Call_Center[Call Id]),FILTER(Call_Center,Call_Center[Answered (Y/N)]="Y"))
-  * Resolved(Y) = CALCULATE(COUNT(Call_Center[Call Id]),FILTER(Call_Center,Call_Center[Resolved] ="Y"))
-
-# Analysis and Insights
-  The goal of this dashboard is to enable managers to explore the data independently, but I have outlined some key points of interest below.
 
   
 

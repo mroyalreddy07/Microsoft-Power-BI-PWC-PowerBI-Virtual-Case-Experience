@@ -120,6 +120,9 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
   This dashboard is designed to support the telecom client's initiative to improve gender balance at the executive level, showcasing key diversity and inclusion     metrics and providing actionable insights into trends and opportunities for improvement.
   
   View interactive and insightful dashboards [here]()
+
+  ![image](https://github.com/user-attachments/assets/465222bb-62c3-4b48-9dd4-b75df8008fa0)
+
   
 
 

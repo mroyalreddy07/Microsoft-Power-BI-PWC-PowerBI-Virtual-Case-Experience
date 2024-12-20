@@ -1,4 +1,4 @@
-# Project Overview
+![image](https://github.com/user-attachments/assets/98c1b7ba-946c-40a4-b7f6-c1c4128102fe)![image](https://github.com/user-attachments/assets/1f2b6302-b753-4aca-8d19-65e5889484e3)# Project Overview
 
 This project is part of the [PwC Switzerland Power BI Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=W5vwWAjutTpHbEraC), demonstrating the application of digital tools in data visualization, automation, and data cleansing to address key business challenges. It features a series of Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. These dashboards provide actionable insights into various aspects of business operations, helping PwC Switzerland and its clients enhance efficiency, strengthen customer loyalty, and foster inclusivity.
 
@@ -112,6 +112,8 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
   Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends,       progress, and areas requiring attention
   
   Discover live, actionable dashboards [here]()
+  
+  (![image](https://github.com/user-attachments/assets/5a5aea53-0467-409f-9351-332ff4171592))
 
 
 

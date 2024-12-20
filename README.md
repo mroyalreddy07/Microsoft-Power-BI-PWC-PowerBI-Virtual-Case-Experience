@@ -24,7 +24,6 @@ To download the .pbix files, navigate to the folder in this repository where the
 
 At PwC, we empower global organizations while upskilling our 276,000 employees, equipping them to thrive in the digital era. Our mission is to enable everyone to learn, work, and innovate with cutting-edge digital tools. Employees can become "Digital Accelerators," advancing their expertise in areas like data analytics, automation, AI, and digital storytelling by mastering self-service tools and coding languages and applying these skills in real-world scenarios.
 
-
 Your manager, Giulia, will mentor you through your Power BI upskilling journey, helping you become a data expert and Digital Accelerator. A key client has already reached out, seeking your expertise in visualizing their data, paving the way for impactful insights and solutions.
 
 **Call Center Analysis | Pwc Switzerland Power BI Virtual Case Experience**
@@ -43,14 +42,13 @@ Your manager, Giulia, will mentor you through your Power BI upskilling journey, 
 * Data Preparation
 * Data Modeling
 * Data Visualization
-* Analysis and Insights
 
 # Data Sourcing
 
 The dataset used for this analysis was sourced from [Pwc Switzerland](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) and available dataset's here below.
 * Task 1. [Call Center Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call-Center-Dataset.xlsx)
 * Task 2. [Churn Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Churn-Dataset.xlsx)
-* Task 3. []()
+* Task 3. [Diversit Iclusion Dataset](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
 
 # Problem Statement
 
@@ -123,10 +121,6 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
 
   ![image](https://github.com/user-attachments/assets/465222bb-62c3-4b48-9dd4-b75df8008fa0)
 
-
-
-
-  
 
 
 

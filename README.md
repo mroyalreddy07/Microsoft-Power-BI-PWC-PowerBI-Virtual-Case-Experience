@@ -55,7 +55,7 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
 # Problem Statement
 
 **Problem**
-* The manager at PhoneNow telecom company seeks actionable insights from the call center dataset to understand customer satisfaction and agent performance trends over time.  
+* The manager at PhoneNow telecom company seeks actionable insights from the call center dataset to understand customer satisfaction and agent performance trends    over time.  
 * A telecom manager requires transparency and analysis of call center data to identify long-term patterns in customer interactions and agent efficiency.  
 * The manager at a major telecom firm is looking to analyze call center data for clear insights into customer behavior and agent performance over the long term.  
 
@@ -78,8 +78,7 @@ The dataset used for this analysis was sourced from [Pwc Switzerland](https://ww
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 # Data Preparation
-
-The dataset was imported into Microsoft Power BI Desktop for analysis. It underwent transformation in Power Query and was modeled for effective visualization.
+  The dataset was imported into Microsoft Power BI Desktop for analysis. It underwent transformation in Power Query and was modeled for effective visualization.
 
 # Data Cleaning
   The process of cleaning the dataset was completed in Power Query with the following steps.
@@ -89,7 +88,7 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 * Unnecessary rows were removed
 
 # Data Transformation
-  The process of converting, cleaning, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the growth of an organization.
+  The process of converting, cleaning, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the        growth of an organization.
   an additional column named Satisfaction Likert was created for referencing using the M-formula:
   
 # Data Modeling
@@ -100,26 +99,30 @@ The dataset was imported into Microsoft Power BI Desktop for analysis. It underw
 # Task 1
 
 **Call Centre Trends**
-  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping to highlight opportunities for operational           enhancements.
+  The first dashboard provides an in-depth look at call center performance metrics, including customer satisfaction, call volumes, and agent efficiency, helping     to highlight opportunities for operational enhancements.
 
-  Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive dashboards.
+  Acess [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Call_Center.pbix) for live and interactive          dashboards.
      
   ![Screenshot 2024-12-18 143824](https://github.com/user-attachments/assets/015ffcf6-fe66-4b45-8e44-5afa63db17bf)
 
 # Task 2
 
 **Customer Retention**
-  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics. It provides actionable insights into trends,       progress, and areas requiring attention
+  Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard highlights key diversity and inclusion metrics.   It provides actionable insights into trends, progress, and areas requiring attention
   
-  Discover live, actionable dashboards [here]()
+  Discover live, actionable dashboards [here](https://github.com/mroyalreddy07/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/Customer%20Retention%20.pbix)
   
-
-  ![image](https://github.com/user-attachments/assets/247cff1f-ddf2-4dd0-83ae-f8fc1597858b)
-
-
-
+![image](https://github.com/user-attachments/assets/247cff1f-ddf2-4dd0-83ae-f8fc1597858b)
 
 # Task 3
+
+**Task 4: Diversity & Inclusion**
+  This dashboard is designed to support the telecom client's initiative to improve gender balance at the executive level, showcasing key diversity and inclusion     metrics and providing actionable insights into trends and opportunities for improvement.
+  
+  View interactive and insightful dashboards [here]()
+  
+
+
 
 
 
